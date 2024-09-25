@@ -8,4 +8,5 @@
     background-color: black;
     color: red; 
     height: 20rem;
+    flex-grow: 1;
 }
