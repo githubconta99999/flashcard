@@ -29,4 +29,20 @@ footer{
     text-align: 100;
 
 }
+.cartao--conteudo{
+
+
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
+background-color: aqua;
+}
+.cartao--pergunta, .cartao--resposta{
+
+
+
+    backface-visibility: hidden;
+}
+.cartao--resposta{
+    transform: rotateY(180deg);
+}
 
