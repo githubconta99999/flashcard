@@ -29,6 +29,12 @@ footer{
     text-align: 100;
 
 }
+
+.cartao:hover .cartao--conteudo{
+
+    background-color: black;
+    transform: rotate(180deg);
+}
 .cartao--conteudo{
 
 
