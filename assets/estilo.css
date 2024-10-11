@@ -33,7 +33,7 @@ footer{
 .cartao:hover .cartao--conteudo{
 
     background-color: black;
-    transform: rotate(180deg);
+    transform: rotateY(180deg);
 }
 .cartao--conteudo{
 
