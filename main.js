@@ -2,7 +2,8 @@ alert("darkness return")
 
 function criarCartao(pergunta,resposta){
 
-    console.log ( pergunta,resposta)
+  let conteudo = document.getElementById("conteudo")
+
 
 
 }
