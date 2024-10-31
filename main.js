@@ -1,4 +1,4 @@
-alert("darkness return")
+
 
 function criarCartao(pergunta,resposta){
 
